@@ -1,0 +1,45 @@
+#index {
+    font-family: helvetica, arial, sans-serif;
+    max-width: 720px;
+    margin: auto;
+    line-height: 1.4;
+}
+
+#music {
+    font-family: helvetica, arial, sans-serif;
+    max-width: 720px;
+    margin: auto;
+    line-height: 1.4;
+    background-color: rgb(80, 80, 80);
+}
+
+
+#madeBy {
+    font-size: 10px;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+#baner {
+    text-align: center;
+}
+
+#baner1 {
+    text-align: center;
+}
+
+#kontent {
+    text-align: center;
+}
+
+#kontakt {
+    text-align: center;
+}
+
+#player {
+    text-align: center;
+    margin-top: 10%;
+}
