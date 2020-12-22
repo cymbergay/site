@@ -50,3 +50,10 @@
     max-width: 800px;
     margin: auto;
     line-height: 1.4;
+}
+#covid {
+    font-family: helvetica, arial, sans-serif;
+    margin: auto;
+    text-align: center;
+    line-height: 1.4;
+}
