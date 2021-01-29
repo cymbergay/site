@@ -1,4 +1,4 @@
-#index {
+.index {
     font-family: helvetica, arial, sans-serif;
     margin: auto;
     line-height: 1.4;
@@ -14,7 +14,7 @@
 }
 
 
-#madeBy {
+.madeBy {
     font-size: 10px;
     text-align: center;
 }
